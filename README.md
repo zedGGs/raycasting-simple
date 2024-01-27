@@ -4,7 +4,9 @@ Raycasting in simple way
 
 # instructions
 
+```
 cd build
-cmake -GNinja ..
+cmake -G "Ninja" ..
 ninja
-./c-raycaster
+./raycaster
+```
